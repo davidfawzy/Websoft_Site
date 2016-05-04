@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSoft.Web", "WebSoft.Web\WebSoft.Web.csproj", "{C92F61D5-DD83-4018-974B-A465CDBE349D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSoft.DAL", "WebSoft.DAL\WebSoft.DAL.csproj", "{C7348A2C-002C-40A6-A022-75269EA6206B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSoft.CoreLib", "WebSoft.CoreLib\WebSoft.CoreLib.csproj", "{E194002B-5850-4A5A-B59F-BD189C9D4DE1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://davidfawzyie.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebSoft.CoreLib\\WebSoft.CoreLib.csproj
+		SccProjectName1 = WebSoft.CoreLib
+		SccLocalPath1 = WebSoft.CoreLib
+		SccProjectUniqueName2 = WebSoft.DAL\\WebSoft.DAL.csproj
+		SccProjectName2 = WebSoft.DAL
+		SccLocalPath2 = WebSoft.DAL
+		SccProjectUniqueName3 = WebSoft.Web\\WebSoft.Web.csproj
+		SccProjectName3 = WebSoft.Web
+		SccLocalPath3 = WebSoft.Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92F61D5-DD83-4018-974B-A465CDBE349D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92F61D5-DD83-4018-974B-A465CDBE349D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92F61D5-DD83-4018-974B-A465CDBE349D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92F61D5-DD83-4018-974B-A465CDBE349D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7348A2C-002C-40A6-A022-75269EA6206B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7348A2C-002C-40A6-A022-75269EA6206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7348A2C-002C-40A6-A022-75269EA6206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7348A2C-002C-40A6-A022-75269EA6206B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E194002B-5850-4A5A-B59F-BD189C9D4DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E194002B-5850-4A5A-B59F-BD189C9D4DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E194002B-5850-4A5A-B59F-BD189C9D4DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E194002B-5850-4A5A-B59F-BD189C9D4DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
